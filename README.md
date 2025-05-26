@@ -1,8 +1,5 @@
 # Reinforcement Learning from Human Feedback (RLHF)
 
-<p align="center">
-  <img src="images/rlhf_banner.png" alt="RLHF Banner" width="80%">
-</p>
 
 ---
 
